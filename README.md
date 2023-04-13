@@ -1,7 +1,8 @@
- ### 👋 Programmer-friendly маркетолог. Развиваю <p><a href="https://doka.guide">Доку</a></p>.
-За всю жизнь написала 5 строчек кода на Python, но уже все забыла.
-А вот коллабы, продвижение, контент — это ко мне 🙃
-📩 t.me/a_shaposhnikova
+ 👋 Programmer-friendly маркетолог. 
+- Развиваю <p><a href="https://doka.guide">Доку</a></p>.
+- За всю жизнь написала 5 строчек кода на Python, но уже все забыла.
+- А вот коллабы, продвижение, контент — это ко мне 🙃
+- 📩 t.me/a_shaposhnikova
 <!--
 **reinadiez/reinadiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><a href="https://doka.guide">Доку</a></p>
+
 
 
