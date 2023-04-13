@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<Доку|https://doka.guide>
+<p><a href="https://doka.guide">Доку</a></p>
 
 
