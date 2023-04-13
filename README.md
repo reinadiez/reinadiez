@@ -1,8 +1,8 @@
- 👋 Programmer-friendly маркетолог. 
+ 👋 Programmer-friendly маркетолог
 - Развиваю <a href="https://doka.guide">Доку</a>
 - За всю жизнь написала 5 строчек кода на Python, но уже все забыла
 - А вот коллабы, продвижение, контент — это ко мне 🙃
-- 📩 t.me/a_shaposhnikova
+- 📩 <a href="t.me/a_shaposhnikova">Доку</a>
 <!--
 **reinadiez/reinadiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
